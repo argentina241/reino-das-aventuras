@@ -1,0 +1,6 @@
+{
+  "name": "Reino das Aventuras",
+  "description": "Jogo clássico de plataforma 2D com fases desafiadoras, poderes especiais, chefão épico e trilha sonora procedural.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
